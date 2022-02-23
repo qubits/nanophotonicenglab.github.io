@@ -11,12 +11,12 @@ tag:
   - publications
 ---
 
+We have published a new paper in MDPI Crystals entitled: **"Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals"**.
+
 DOI link: <https://doi.org/10.3390/cryst12030303>
 
 <!-- [Apple](http://apple.com "Apple") -->
-We have published a new paper in MDPI Crystals entitled: **"Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals"**.
-
-<!-- [DOI link](https://doi.org/10.3390/cryst12030303 "DOI link caption") --> -->
+<!-- [DOI link](https://doi.org/10.3390/cryst12030303 "DOI link caption") -->
 
 <!--more-->
 <!--any text before this line will be displayed on the 'News' page. Any text after this point will be accessible by clicking the post. Please keep this breif.-->
