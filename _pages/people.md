@@ -12,7 +12,7 @@ author_profile: true
 
 ## Research Fellows
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_HT.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;
 Dr. Mike Taverne<br>&nbsp;
 *Photonic crystals, Photonic crystals cavities*<br>&nbsp;
 <a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="HT" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;
