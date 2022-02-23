@@ -106,11 +106,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : "Northumbria University<br>Newcastle upon Tyne"
-  email            : "ee.smsl@northumbria.ac.uk"
+  email            : "daniel.ho@northumbria.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "ee.smsl@northumbria.ac.uk"
+      #url: "daniel.ho@northumbria.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -150,7 +150,7 @@ footer:
       url: "https://instagram.com/@smsl_nu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ee.smsl@northumbria.ac.uk"
+      url: "mailto:daniel.ho@northumbria.ac.uk"
     
 
 
