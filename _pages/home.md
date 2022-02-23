@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/NanoKnittingTapsterite.jpeg
   overlay_filter: 0.5
   tagline: "test"
-  caption: "Photo credit: [Dr Nic Geraldi]"#(https://SMSL.com)"
+  caption: "Photo credit: [Daniel Ho and Mike Taverne]"
   #actions:
    # - label: "Button"
     #  url: "https://github.com"  
