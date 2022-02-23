@@ -18,7 +18,7 @@ Dr. Mike Taverne<br>&nbsp;
 <a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="HT" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="HT" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;
 
-## Project students
+<!--## Project students
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_HT.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;
 Thomas Taylor<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;
