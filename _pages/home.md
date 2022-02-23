@@ -1,5 +1,5 @@
 ---
-title:  "Smart Materials and Surfaces Laboratory"
+title:  "Nanophotonics Engineering Laboratory"
 layout: splash
 permalink: /
 excerpt: #Testing text
