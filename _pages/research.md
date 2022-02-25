@@ -3,6 +3,7 @@ title:  "Research"
 layout: collection
 permalink: /Research/
 comments: true
+author_profile: true
 ---
 Research directions:
 * Single photon sources
