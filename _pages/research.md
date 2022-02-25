@@ -1,11 +1,10 @@
 ---
 title:  "Research"
-layout: splash
+layout: collection
 permalink: /Research/
 comments: true
 ---
 Research directions:
-
-* one
-* two
-* three
+* Single photon sources
+* Hydrogen fuel cells
+* Solar-thermal absorbers
