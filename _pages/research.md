@@ -7,7 +7,7 @@ author_profile: true
 ---
 Research directions:
 * Single photon sources
-* Hydrogen fuel cells
 * Solar-thermal absorbers
+* Hydrogen fuel cells
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/sample_image.gif" alt="HT" style="float: left;width: 100%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/sample_image.gif" alt="HT" style="float: left;width: 200px"/>And some text.
