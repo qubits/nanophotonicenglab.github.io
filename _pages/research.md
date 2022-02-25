@@ -2,8 +2,6 @@
 title:  "Research"
 layout: archive
 permalink: /Research/
-sidebar:
-  nav: "docs"
 comments: true
 ---
 <a id="Top_of_page">
