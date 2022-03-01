@@ -12,6 +12,12 @@ main:
     url: /Contact/
   - title: "Resources"
     url: /Resources/
+  - title: "Research1"
+    url: /Research1/
+  - title: "Research2"
+    url: /Research2/
+  - title: "Research3"
+    url: /Research3/
 docs:
   - title: Bio-engineering
     url: /Bioengineering/
