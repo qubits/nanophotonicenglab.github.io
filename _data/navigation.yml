@@ -19,59 +19,66 @@ main:
   #- title: "Research3"
     #url: /Research3/
 docs:
-  - title: Bio-engineering
-    url: /Bioengineering/
-    children:
-    - title: "Biomaterials"
-      url: /Bio_materials/
-    - title: "Single-cell"
-      url: /Single_cell/
+  - title: Single-photons on demand
+    url: /Research1/
+  - title: 3D Nanophotonics in artificially structured materials
+    url: /Research2/
+  - title: Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase
+    url: /Research3/
+  
+  #- title: Bio-engineering
+    #url: /Bioengineering/
+    #children:
+    #- title: "Biomaterials"
+      #url: /Bio_materials/
+    #- title: "Single-cell"
+      #url: /Single_cell/
       
-  - title: Education
-    url: /docs/configuration/
+  #- title: Education
+    #url: /docs/configuration/
     
-  - title: Energy Materials
-    children:
-      - title: "Energy harvesting"
-        url: /docs/configuration/
-      - title: "Microbial fuel cells"
-        url: /docs/navigation/
-      - title: "Batteries"
-        url: /docs/navigation/  
+  #- title: Energy Materials
+    #children:
+      #- title: "Energy harvesting"
+        #url: /docs/configuration/
+      #- title: "Microbial fuel cells"
+        #url: /docs/navigation/
+      #- title: "Batteries"
+        #url: /docs/navigation/  
           
-  - title: Microfluidics
-    children:
-      - title: "Liquid manipulation"
-        url: /docs/configuration/
-      - title: "Porous media flow"
-        url: /docs/navigation/
+  #- title: Microfluidics
+    #children:
+      #- title: "Liquid manipulation"
+        #url: /docs/configuration/
+      #- title: "Porous media flow"
+        #url: /docs/navigation/
         
-  - title: Smart Materials
-    children:
-      - title: "Hydrogels"
-        url: /docs/configuration/
-      - title: "Shape memory materials"
-        url: /docs/navigation/  
-      - title: "Metamaterials"
-        url: /docs/navigation/  
-      - title: "Soft materials"
-        url: /docs/navigation/  
+  #- title: Smart Materials
+    #children:
+      #- title: "Hydrogels"
+        #url: /docs/configuration/
+      #- title: "Shape memory materials"
+        #url: /docs/navigation/  
+      #- title: "Metamaterials"
+        #url: /docs/navigation/  
+      #- title: "Soft materials"
+        #url: /docs/navigation/  
         
-  - title: Soft Matter Dynamics
-    children:
-      - title: "Phase change"
-        url: /Phase_change/
-      - title: "Wetting"
-        url: /Wetting/
+  #- title: Soft Matter Dynamics
+    #children:
+      #- title: "Phase change"
+        #url: /Phase_change/
+      #- title: "Wetting"
+        #url: /Wetting/
         
-  - title: Smart Microsystems
-    children:
-      - title: "Electronics"
-        url: /docs/configuration/
-      - title: "Sensors"
-        url: /docs/navigation/  
-      - title: "Smart Wearables"
-        url: /docs/navigation/
+  #- title: Smart Microsystems
+    #children:
+      #- title: "Electronics"
+        #url: /docs/configuration/
+      #- title: "Sensors"
+        #url: /docs/navigation/  
+      #- title: "Smart Wearables"
+        #url: /docs/navigation/
         
-  - title: Facilities/capabilities
-    url: /Facilities/
+  #- title: Facilities/capabilities
+    #url: /Facilities/

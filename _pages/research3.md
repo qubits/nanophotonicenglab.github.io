@@ -1,8 +1,10 @@
 ---
-title:  "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
+title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
 layout: collection
 permalink: /Research3/
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 <!--**Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase**-->

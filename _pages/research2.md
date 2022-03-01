@@ -1,8 +1,10 @@
 ---
-title:  "3D Nanophotonics in artificially structured materials"
+title: "3D Nanophotonics in artificially structured materials"
 layout: collection
 permalink: /Research2/
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 <!--**3D Nanophotonics in artificially structured materials**-->

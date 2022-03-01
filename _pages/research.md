@@ -1,9 +1,11 @@
 ---
-title:  "Research"
+title: "Research"
 layout: collection
 permalink: /Research/
 comments: true
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 Research directions:
