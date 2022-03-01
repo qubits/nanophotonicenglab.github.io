@@ -9,6 +9,10 @@ author_profile: true
 
 Currently, the remaining grand challenge LCDs face in the display market is response time (a few milliseconds), which is ~ 100 times slower than that of an OLEDs (~ 0.1 ms); to achieve sub-millisecond response time for suppressing the colour breakup issue, blue phase liquid crystal (BPLC) is emerging as a strong candidate for reaching this goal. In recent works, the group has demonstrated that a polymeric microwell template can dramatically improve the stable temperature range up to 20°C (typically 1−5 °C) of the BPLC while enhancing reflectivity, and stability of the reflection peak wavelength. In this project, we extend the temperature range and ideal single-crystals of blue phase liquid crystal, which can be used to significantly increase the refresh rate of LCD displays to 50°C by an approach based on the combination of organised microstructures and nano-patterned planar surface substrates. 
 
+<!-- *Media:* -->
+<!--* <https://www.youtube.com/watch?v=7xCw0-Glm3w>-->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7xCw0-Glm3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Funding:*
 
 1. Novel liquid crystal infiltrated microstructures and their applications (MOST-RS International Exchange Scheme 2017) – PI: Prof. John Rarity, Co-I:  Dr. Ying-Lung Daniel Ho, funded by the Royal Society, value (£): 11,700, 01/03/2017 – 28/02/2019. 
@@ -20,7 +24,3 @@ Currently, the remaining grand challenge LCDs face in the display market is resp
 *Collaborators:*
 
 * <https://researchoutput.ncku.edu.tw/en/persons/chia-rong-lee>
-
-*Media:*
-
-* <https://www.youtube.com/watch?v=7xCw0-Glm3w>
