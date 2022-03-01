@@ -1,4 +1,11 @@
-**3D Nanophotonics in artificially structured materials**
+---
+title:  "3D Nanophotonics in artificially structured materials"
+layout: collection
+permalink: /Research2/
+author_profile: true
+---
+
+<!--**3D Nanophotonics in artificially structured materials**-->
 
 3D photonic crystal materials with a full photonic bandgap hold much promise for guiding, storing and controlling light but such structures are not routinely researched because of the difficulty of fabrication of arbitrary structures at the wavelength scale. In this project, we aim to fabricate wavelength-scale 3D structures blocking light propagation and orientation in all directions and polarizations in the 0.5–1.6 µm region, and deliver the significant impact of emerging technologies (e.g., novel sensors, biomimetic structures, nano-lasers, and quantum light sources). To this end, the three objectives of the proposed work are: 
 

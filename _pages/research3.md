@@ -1,4 +1,11 @@
-**Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase**
+---
+title:  "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
+layout: collection
+permalink: /Research3/
+author_profile: true
+---
+
+<!--**Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase**-->
 
 Currently, the remaining grand challenge LCDs face in the display market is response time (a few milliseconds), which is ~ 100 times slower than that of an OLEDs (~ 0.1 ms); to achieve sub-millisecond response time for suppressing the colour breakup issue, blue phase liquid crystal (BPLC) is emerging as a strong candidate for reaching this goal. In recent works, the group has demonstrated that a polymeric microwell template can dramatically improve the stable temperature range up to 20°C (typically 1−5 °C) of the BPLC while enhancing reflectivity, and stability of the reflection peak wavelength. In this project, we extend the temperature range and ideal single-crystals of blue phase liquid crystal, which can be used to significantly increase the refresh rate of LCD displays to 50°C by an approach based on the combination of organised microstructures and nano-patterned planar surface substrates. 
 

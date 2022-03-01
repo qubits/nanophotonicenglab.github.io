@@ -1,11 +1,11 @@
 ---
-title:  "Research1-title"
+title:  "Single-photons on demand"
 layout: collection
 permalink: /Research1/
 author_profile: true
 ---
 
-**Single-photons on demand**
+<!-- **Single-photons on demand** -->
 
 Planck's assumption of electromagnetic energy quantization and Einstein's hypothesis of light quanta (or photons) introduced the wave-particle duality of light and led to the quantum effects, such as quantum vacuum fluctuations and quantum entanglement; novel technologies now make it possible for us to create and detect single photons on demand. In this project, we characterize experimentally the single photon emission from quantum dots, colour centre in diamond, and 2D materials, measuring second-order autocorrelation functions using single-photon counting in a confocal fluorescent microscope. We do this by engineering the defects, cavities, and waveguides at the wavelength scale to create devices with optimized structures for maximal photon emission and collection efficiency into useful modes. 
 
