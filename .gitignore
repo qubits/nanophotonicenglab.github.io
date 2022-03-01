@@ -1,1 +1,9 @@
+# Vim
 *~
+
+# Ruby Gem
+Gemfile.lock
+
+# Jekyll generated files
+.jekyll-cache
+_site
