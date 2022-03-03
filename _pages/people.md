@@ -11,6 +11,7 @@ author_profile: true
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_DH.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;
 Dr. Ying-Lung Daniel Ho<br>&nbsp; 
                        <br>&nbsp;
+                       <br>&nbsp;
 <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="HT" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="HT" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" alt="HT" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
