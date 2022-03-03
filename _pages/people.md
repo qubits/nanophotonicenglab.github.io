@@ -6,7 +6,7 @@ author_profile: true
 #comments: true
 ---
 
-## Staff
+## Principal Investigator
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_DH.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;Dr. Ying-Lung Daniel Ho<br>&nbsp;*Photonic crystals, Photonic crystals cavities* <br>&nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" alt="HT" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" alt="HT" style="width: 5%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" alt="HT" style="width: 6%; border: none; text-decoration: none"/></a>&nbsp;<a href="https://www.researchgate.net/profile/Ying-Lung_Ho"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/rg.png" alt="HT" style="width: 7%; border: none; text-decoration: none"/></a>&nbsp;
 
