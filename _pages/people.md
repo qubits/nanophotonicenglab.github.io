@@ -21,7 +21,7 @@ Dr. Mike Taverne<br>&nbsp;
 ## PhD Students
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_BO.jpg" alt="HT" style="float: left;width: 13%"/>&nbsp;
-Nadira Hameed&nbsp;
+Nadira Hameed<br>&nbsp;
 
 ## Project students
 
