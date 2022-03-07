@@ -1,5 +1,5 @@
 ---
-title:  "Nanophotonics Engineering Laboratory"
+title:  "Nanophotonic Engineering Laboratory"
 layout: splash
 permalink: /
 excerpt: #Testing text
