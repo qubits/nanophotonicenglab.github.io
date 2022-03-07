@@ -15,12 +15,15 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+# Infos on using variables:
+#   https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml
+#   https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial#example-6-variables
+name                     : &name "Nanophotonic Engineering Laboratory"
+description              : "Nanophotonic Engineering Laboratory at Northumbria University"
 locale                   : "en-US"
-title                    : "Nanophotonics Engineering Laboratory"
+title                    : *name
 title_separator          : "|"
 subtitle                 : "NEL"
-name                     : "Nanophotonics Engineering Laboratory"
-description              : "Nanophotonics Engineering Laboratory at Northumbria University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NanophotonicEngLab/nanophotonicenglab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

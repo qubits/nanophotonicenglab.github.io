@@ -1,5 +1,5 @@
 ---
-title:  "Nanophotonic Engineering Laboratory"
+title:  {{ site.name }}
 layout: splash
 permalink: /
 excerpt: #Testing text

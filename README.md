@@ -1,5 +1,5 @@
 # nanophotonicenglab.github.io
-Website for the Nanophotonics Engineering Laboratory: https://nanophotonicenglab.github.io
+Website for the Nanophotonic Engineering Laboratory: https://nanophotonicenglab.github.io
 
 Design based on https://github.com/SMSL-NU/SMSL-NU.github.io -> https://SMSL-NU.github.io
 
