@@ -10,14 +10,10 @@ main:
     url: /People/
   - title: "Contact"
     url: /Contact/
+  - title: "Facilities"
+    url: /Facilities/
   - title: "Resources"
     url: /Resources/
-  #- title: "Research1"
-    #url: /Research1/
-  #- title: "Research2"
-    #url: /Research2/
-  #- title: "Research3"
-    #url: /Research3/
 docs:
   - title: Single-photons on demand
     url: /Research1/
