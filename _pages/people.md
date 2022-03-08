@@ -10,9 +10,8 @@ author_profile: true
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_DH.jpg" style="float: left;height: 120px"/>
 &nbsp;Dr. Y.-L. Daniel Ho<br>
-&nbsp;<br>
-&nbsp;daniel.ho@northumbria.ac.uk<br> 
 &nbsp;ELE306<br>
+&nbsp;<daniel.ho@northumbria.ac.uk><br> 
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a><br>
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
