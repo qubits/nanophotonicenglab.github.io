@@ -12,7 +12,6 @@ author_profile: true
 &nbsp;Dr. Y.-L. Daniel Ho<br>
 &nbsp;<br>
 &nbsp;daniel.ho@northumbria.ac.uk<br> 
-&nbsp;<br>
 &nbsp;ELE306<br>
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a><br>
 <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
