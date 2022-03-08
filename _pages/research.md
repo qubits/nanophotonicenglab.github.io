@@ -18,14 +18,3 @@ Research directions:
   * [Hydrogen fuel cells]({% link _pages/research5.md %})
   * TEST
   
-<!--* [Single photon sources]
-* [Solar-thermal absorbers]
-* [Hydrogen fuel cells]
-
-[Link to a document]({% link _pages/research1.md %})
-
-{% link _pages/research1.md %}
-{% link _pages/research2.md %}
-{% link _pages/research3.md %}-->
-{% link _pages/research4.md %}-->
-{% link _pages/research5.md %}-->
