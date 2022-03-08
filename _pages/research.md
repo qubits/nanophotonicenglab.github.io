@@ -13,7 +13,7 @@ Research directions:
   * [Single-photons on demand]({% link _pages/research1.md %})
   * [3D Nanophotonics in artificially structured materials]({% link _pages/research2.md %})
   * [Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase]({% link _pages/research3.md %})
-* Nano/Micro-Structured Materials for Energy Applications
+* Nano/Micro-Structured Materials for Energy Applications:
   * [Solar-thermal absorbers]
   * [Hydrogen fuel cells]
   
