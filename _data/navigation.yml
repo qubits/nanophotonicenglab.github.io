@@ -17,18 +17,18 @@ main:
 docs:
   - title: Nanophotonics
     children:
-    - title: Single-photons on demand
-      url: /Research1/
-    - title: 3D Nanophotonics in artificially structured materials
-      url: /Research2/
-    - title: Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase
-      url: /Research3/
+      - title: Single-photons on demand
+        url: /Research1/
+      - title: 3D Nanophotonics in artificially structured materials
+        url: /Research2/
+      - title: Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase
+        url: /Research3/
   - title: Nano/Micro-Structured Materials for Energy Applications:
     children:
-    - title: Solar-thermal absorbers
-      url: /Research4/
-    - title: Hydrogen fuel cells
-      url: /Research5/
+      - title: Solar-thermal absorbers
+        url: /Research4/
+      - title: Hydrogen fuel cells
+        url: /Research5/
   
   #- title: Bio-engineering
     #url: /Bioengineering/
