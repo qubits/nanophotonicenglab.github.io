@@ -14,8 +14,8 @@ Research directions:
   * [3D Nanophotonics in artificially structured materials]({% link _pages/research2.md %})
   * [Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase]({% link _pages/research3.md %})
 * Nano/Micro-Structured Materials for Energy Applications:
-  * [Solar-thermal absorbers]
-  * [Hydrogen fuel cells]
+  * [Solar-thermal absorbers]({% link _pages/research4.md %})
+  * [Hydrogen fuel cells]({% link _pages/research5.md %})
   
 <!--* [Single photon sources]
 * [Solar-thermal absorbers]
@@ -26,3 +26,5 @@ Research directions:
 {% link _pages/research1.md %}
 {% link _pages/research2.md %}
 {% link _pages/research3.md %}-->
+{% link _pages/research4.md %}-->
+{% link _pages/research5.md %}-->
