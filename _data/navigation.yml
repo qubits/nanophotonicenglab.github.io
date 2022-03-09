@@ -14,6 +14,8 @@ main:
     url: /Facilities/
   - title: "Resources"
     url: /Resources/
+  - title: "Publications"
+    url: /Publications/
 
 docs:
 
