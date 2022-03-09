@@ -5,12 +5,14 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
-*Publications*
-
+*2022*
 1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
+*2020*
 2. M. Hunt, M. P. C. Taverne, J. Askey, A. May, A. Van Den Berg, Y.-L. D. Ho, J. G. Rarity, and S. Ladak, “Harnessing Multi-Photon Absorption to Produce Three-Dimensional Magnetic Structures at the Nanoscale,” Materials 13, 3,761 (2020).
+*2019*
 3. L. Chen, K. Morgan, Ghada Alzaidy, C.-C. Huang, Y. -L. Daniel Ho*, Mike P. C. Taverne, X. Zheng, Z. Ren, Daniel W. Hewak, J. G. Rarity, [“Observation of Complete Photonic Bandgap in Low Refractive Index Contrast Inverse Rod-Connected Diamond Structured Chalcogenides”](https://doi.org/10.1021/acsphotonics.9b00184), ACS Photonics 6, 1248−1254 (2019). 
 5.	Une G. Butaitie, Graham M. Gibson, Ying-Lung D. Ho, Mike P. C. Taverne, Jonathan M. Taylor, and David B. Phillips, “Indirect optical trapping using light driven micro-rotors for reconfigurable hydrodynamic manipulation,” Nat. Commun. 10, 1215 (2019).
+*2018*
 6. F. Ortiz-Huerta, L. Chen, M. P. C.  Taverne, J.P. Hadden, M. Johnson, Y.-L.D. Ho, and J.G. Rarity, ["Fabrication of hybrid Fabry-Perot microcavity using two-photon lithography for single-photon sources"](https://doi.org/10.1364/OE.26.033245), Opt. Express 26, 33245-33252 (2018).
 7. J.-D. Lin, Y.-L. D. Ho*, L. Chen, M. Lopez-Garcia, S.-A. Jiang, M. P. C. Taverne, C.-R. Lee, and J. G. Rarity, [“Microstructure-Stabilized Blue Phase Liquid Crystals”](https://doi.org/10.1021/acsomega.8b01749) ACS Omega 3, 15435–15441 (2018).
 8. M. P. C. Taverne, Y.-L. D. Ho*, X. Zheng, L.-F. Chen, C.-H. N. Fang, and J. G. Rarity, [“Strong Light Confinement in Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1364/OL.43.005202) Opt. Lett. 43, 5202- 5205 (2018).
