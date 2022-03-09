@@ -26,4 +26,5 @@ comments: true
 9. L.-F. Chen, M. P. C. Taverne, X. Zheng, J.-D. Lin, R. Oulton, M. Lopez-Garcia, Y.-L. D. Ho*, J. G. Rarity* “Evidence of Near-Infrared Partial Photonic Bandgap in Polymeric Rod-connected Diamond Structure”, Opt. Express 23, 26565-26575 (2015).
 10. M. P. C. Taverne*, Y.-L. D. Ho*, J. G. Rarity*, “Investigation of defect cavities formed in three-dimensional woodpile photonic crystals”, J. Opt. Soc. Am. B. 32, 639-648 (2015).
 11. Y.-L. D. Ho, P. S. Ivanov, E. Engin, M. F. J. Nicol, M. P. C. Taverne, Chengyong Hu, M. J. Cryan, I. J. Craddock, C. J. Railton, J. G. Rarity, “FDTD Simulation of Inverse Three-Dimensional Face-centered Cubic Photonic Crystal Cavities”, IEEE J. Quantum Electron. 47, 1480–1492 (2011).
+12. J.-D. Lin, Y.-L. D. Ho*, L. Chen, M. Lopez-Garcia, S.-A. Jiang, M. P. C. Taverne, C.-R. Lee, and J. G. Rarity, [“Microstructure-Stabilized Blue Phase Liquid Crystals”](https://doi.org/10.1021/acsomega.8b01749) ACS Omega 3, 15435–15441 (2018).
 
