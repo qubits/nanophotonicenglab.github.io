@@ -10,10 +10,10 @@ main:
     url: /Research/
   - title: "Facilities"
     url: /Facilities/
-  - title: "Resources"
-    url: /Resources/
   - title: "Publications"
     url: /Publications/
+  - title: "Resources"
+    url: /Resources/
   - title: "Contact"
     url: /Contact/
     
