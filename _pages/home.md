@@ -22,7 +22,7 @@ comments: true
 
 * 23-02-2022 Check out our latest publication on [Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals](https://doi.org/10.3390/cryst12030303)<br>
 * 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed <br>
-* 01-09-2021 NEL welcomes its new member:  Dr. Mike Taverne <br>
+* 01-09-2021 NEL welcomes its new member:  [Dr. Mike Taverne](https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/) <br>
 * 10-03-2021 Our EPSRC New Investigator Award project [3D Nanophotonics in Artificially Structured Chalcogenide Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1) has just been granted! <br>
 
 
