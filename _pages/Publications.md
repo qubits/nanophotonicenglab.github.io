@@ -1,6 +1,8 @@
 ---
 title:  "Publications"
-layout: archive
+#layout: archive
+#layout: collection
+layout: splash
 permalink: /Publications/
 author_profile: true
 comments: true
