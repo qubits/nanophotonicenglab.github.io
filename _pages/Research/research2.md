@@ -1,7 +1,7 @@
 ---
 title: "3D Nanophotonics in artificially structured materials"
 layout: collection
-permalink: /Research2/
+permalink: /Nanophotonics/3D-Nanophotonics/
 author_profile: true
 sidebar:
   nav: "docs"

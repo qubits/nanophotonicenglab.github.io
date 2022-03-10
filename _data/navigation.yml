@@ -18,23 +18,28 @@ main:
     url: /Contact/
     
 docs:
-
   - title: "Nanophotonics"
     children:
       - title: "Single-photons on demand"
-        url: /Research1/
+        url: /Nanophotonics/Single-photons-on-demand/
       - title: "3D Nanophotonics in artificially structured materials"
-        url: /Research2/
+        url: /Nanophotonics/3D-Nanophotonics/
       - title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
-        url: /Research3/
+        url: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/
         
   - title: "Nano/Micro-Structured Materials for Energy Applications"
     children:
       - title: "Solar-thermal absorbers"
-        url: /Research4/
+        url: /energy-applications/Solar-thermal-absorbers/
       - title: "Hydrogen fuel cells"
-        url: /Research5/
-  
+        url: /energy-applications/Hydrogen-fuel-cells/
+
+facilities:
+  - title: "Fourier Image Spectroscopy"
+    url: /Facilities/FIS/
+  - title: "Confocal microscope"
+    url: /Facilities/confocal/
+
   #- title: Bio-engineering
     #url: /Bioengineering/
     #children:

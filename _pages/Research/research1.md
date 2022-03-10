@@ -1,7 +1,7 @@
 ---
 title: "Single-photons on demand"
 layout: collection
-permalink: /Research1/
+permalink: /Nanophotonics/Single-photons-on-demand/
 author_profile: true
 sidebar:
   nav: "docs"

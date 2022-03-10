@@ -1,7 +1,7 @@
 ---
 title: "Solar-thermal absorbers"
 layout: collection
-permalink: /Research4/
+permalink: /energy-applications/Solar-thermal-absorbers/
 author_profile: true
 sidebar:
   nav: "docs"

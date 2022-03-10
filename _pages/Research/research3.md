@@ -1,7 +1,7 @@
 ---
 title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
 layout: collection
-permalink: /Research3/
+permalink: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/
 author_profile: true
 sidebar:
   nav: "docs"

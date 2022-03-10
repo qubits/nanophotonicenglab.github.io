@@ -1,7 +1,7 @@
 ---
 title: "Hydrogen fuel cells"
 layout: collection
-permalink: /Research5/
+permalink: /energy-applications/Hydrogen-fuel-cells/
 author_profile: true
 sidebar:
   nav: "docs"
@@ -11,4 +11,4 @@ sidebar:
 
 <!-- **Hydrogen fuel cells** -->
 
-TEXT
+TODO
