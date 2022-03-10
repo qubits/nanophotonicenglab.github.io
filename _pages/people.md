@@ -1,6 +1,7 @@
 ---
 title:  "People"
-layout: collection
+#layout: collection
+layout: splash
 permalink: /People/
 author_profile: true
 #comments: true
