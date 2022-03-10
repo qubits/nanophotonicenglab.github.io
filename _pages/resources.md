@@ -1,6 +1,8 @@
 ---
 title:  "Resources"
-layout: archive
+#layout: archive
+#layout: collection
+layout: splash
 permalink: /Resources/
 author_profile: true
 comments: true
