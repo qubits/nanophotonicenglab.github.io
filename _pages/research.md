@@ -17,3 +17,6 @@ Research directions:
   * [Solar-thermal absorbers]({% link _pages/research4.md %})
   * [Hydrogen fuel cells]({% link _pages/research5.md %})
   
+Facilities:
+* Fourier Image Spectroscopy
+* Confocal microscope
