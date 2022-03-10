@@ -6,5 +6,5 @@ layout: splash
 permalink: /Facilities/
 author_profile: true
 ---
-* [Fourier Image Spectroscopy]({% link _pages/Research/FIS.md %})
+* [Fourier Image Spectroscopy]({% link _pages/Facilities/FIS.md %})
 * Confocal microscope
