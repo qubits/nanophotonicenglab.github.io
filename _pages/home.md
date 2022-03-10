@@ -20,9 +20,10 @@ comments: true
 
 
 ## *Latest News ...* 
-* 23-02-2022 Check out our latest publication on [Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals](https://doi.org/10.3390/cryst12030303)<br>
-* 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed <br>
-* 01-09-2021 NEL welcomes its new member:  [Dr. Mike Taverne](https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/) <br>
-* 10-03-2021 Our EPSRC New Investigator Award project [3D Nanophotonics in Artificially Structured Chalcogenide Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1) has just been granted! <br>
-
+* 23-02-2022 Check out our latest publication on [Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals](https://doi.org/10.3390/cryst12030303)
+* 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed 
+* NEL has fully funded PhD position available to study [Design of Artificially Nano-structured Materials for Three-dimensional Electrodes and Catalysts](https://www.findaphd.com/phds/project/design-of-artificially-nano-structured-materials-for-three-dimensional-electrodes-and-catalysts-advert-reference-fac21-ee-mpee-hodaniel/?p133766).
+* 01-09-2021 NEL welcomes its new member:  [Dr. Mike Taverne](https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne/) 
+* 10-03-2021 Our EPSRC New Investigator Award project [3D Nanophotonics in Artificially Structured Chalcogenide Materials](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1) has just been granted! 
+* 02-12-2019 NEL has fully funded PhD position available to study [3D Nanophotonics in Artificially Structured Chalcogenide Materials](https://www.findaphd.com/phds/project/3d-nanophotonics-in-artificially-structured-chalcogenide-materials-advert-reference-rdf20-ee-mpee-ho/?p116077).
 
