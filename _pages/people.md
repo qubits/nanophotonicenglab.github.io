@@ -51,6 +51,12 @@ author_profile: true
 &nbsp;<br>
 &nbsp;<br>
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+&nbsp;Habib Awachi<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
 The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
