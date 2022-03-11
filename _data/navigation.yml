@@ -24,8 +24,10 @@ docs:
         url: /Nanophotonics/Single-photons-on-demand/
       - title: "3D Nanophotonics in artificially structured materials"
         url: /Nanophotonics/3D-Nanophotonics/
+      - title: "Optical microcavites and cavity quantum electrodynamics"
+        url: /Nanophotonics/Optical microcavites and cavity quantum electrodynamics/
       - title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
-        url: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/
+        url: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/        
         
   - title: "Nano/Micro-Structured Materials for Energy Applications"
     children:
