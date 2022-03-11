@@ -9,21 +9,17 @@ sidebar:
 
 <!--**Optical Microcavites and Cavity Quantum Electrodynamics**-->
 
-#Currently, the remaining grand challenge LCDs face in the display market is response time (a few milliseconds), which is ~ 100 times slower than that of an OLEDs (~ 0.1 ms); to achieve sub-millisecond response time for suppressing the colour breakup issue, blue phase liquid crystal (BPLC) is emerging as a strong candidate for reaching this goal. In recent works, the group has demonstrated that a polymeric microwell template can dramatically improve the stable temperature range up to 20°C (typically 1−5 °C) of the BPLC while enhancing reflectivity, and stability of the reflection peak wavelength. In this project, we extend the temperature range and ideal single-crystals of blue phase liquid crystal, which can be used to significantly increase the refresh rate of LCD displays to 50°C by an approach based on the combination of organised microstructures and nano-patterned planar surface substrates. 
-
-<!-- *Media:* -->
-<!--* <https://www.youtube.com/watch?v=7xCw0-Glm3w>-->
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7xCw0-Glm3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Recently, 3D photonic crystal structures with complete photonic bandgaps (PBGs) have been fabricated using direct laser writing, exploiting two-photon polymerization (2PP) based 3D lithography. The technique is ideal for fabricating non-layer based structures such as rod-connected diamond photonic crystal (RCD), and could allow selective writing of defects containing fluorescent  material at the antinodes of cavities. In this project, we study defect cavities in 3D photonic crystal, which can trap and store light in the smallest volumes allowable in dielectric materials, enhancing non-linearities and cavity QED effects. Here, we study inverse rod-connected diamond (RCD) crystals containing point defect cavities. Such a high-Q cavity with ultra-small mode volume could be used to demonstrate strong coupling at elevated temperatures [5], while coupled cavities of this type could form broad bandwidth, lossless, wavelength scale optical circuits in a fully 3D photonic crystal microchip. Additionally, these microchips could allow the development of ultrasensitive gas sensors, guiding and confining light in air or low refractive index material, and may also find applications in solar energy trapping and harvesting [17].
 
 *Funding:*
 
-#1. Novel liquid crystal infiltrated microstructures and their applications (MOST-RS International Exchange Scheme 2017) – PI: Prof. John Rarity, Co-I:  Dr. Ying-Lung Daniel Ho, funded by the Royal Society, value (£): 11,700, 01/03/2017 – 28/02/2019. 
+3D Nanophotonics in Artificially Structured Chalcogenide Materials (EPSRC New Investigator Award) – PI: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/V040030/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1), value (£): 379,763, 01/09/2021 – 31/08/2024.
 
 *Publications:*
 
-#1. J.-D. Lin, Y.-L. D. Ho*, L. Chen, M. Lopez-Garcia, S.-A. Jiang, M. P. C. Taverne, C.-R. Lee, and J. G. Rarity, [“Microstructure-Stabilized Blue Phase Liquid Crystals”](https://doi.org/10.1021/acsomega.8b01749) ACS Omega 3, 15435–15441 (2018).
-
-*Collaborators:*
-
-#* <https://researchoutput.ncku.edu.tw/en/persons/chia-rong-lee>
-#* <https://sites.google.com/gms.ndhu.edu.tw/ndhusmp>
+1. M. P. C. Taverne, Y.-L. D. Ho*, J. G. Rarity, [“Strongly Confining Light with Air-mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.3390/cryst12030303), Crystals 12, 3, 303 (2022).
+1. M. P. C. Taverne, Y.-L. D. Ho*, X. Zheng, L.-F. Chen, C.-H. N. Fang, and J. G. Rarity, [“Strong Light Confinement in Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1364/OL.43.005202) Opt. Lett. 43, 5202- 5205 (2018).
+1. Xu Zheng*, Mike P. C. Taverne*, Y.-L. D. Ho*, and John G. Rarity*, [“Cavity Design in Woodpile Based 3D Photonic Crystal”](https://doi.org/10.3390/app8071087), Appl. Sci. 8, 1087 (2018).
+1. M. P. C. Taverne, Y.-L. D. Ho*, L.-F. Chen, X. Zheng, M. Lopez-Garcia, and J. G. Rarity, [“Modelling of Defect Cavities Formed in Inverse Three-Dimensional Rod-Connected Diamond Photonic Crystals”](https://doi.org/10.1209/0295-5075/116/64007), EPL (Europhys. Lett.) 116, 64007 (2017).
+4. M. P. C. Taverne*, Y.-L. D. Ho*, J. G. Rarity*, [“Investigation of defect cavities formed in three-dimensional woodpile photonic crystals”](https://doi.org/10.1364/JOSAB.32.000639), J. Opt. Soc. Am. B. 32, 639-648 (2015).
+5. Y.-L. D. Ho, P. S. Ivanov, E. Engin, M. F. J. Nicol, M.  P. C. Taverne,  Chengyong Hu,  M. J. Cryan, I. J. Craddock, C. J. Railton, J. G. Rarity, [“FDTD Simulation of Inverse Three-Dimensional Face-centered Cubic Photonic Crystal Cavities”](https://doi.org/10.1109/JQE.2011.2170404), IEEE J. Quantum Electron. 47, 1480–1492 (2011).
