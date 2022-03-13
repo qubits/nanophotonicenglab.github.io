@@ -12,9 +12,12 @@ sidebar:
 <!-- **Single-photons on demand** -->
 
 Planck's assumption of electromagnetic energy quantization and Einstein's hypothesis of light quanta (or photons) introduced the wave-particle duality of light and led to the quantum effects, such as quantum vacuum fluctuations and quantum entanglement; novel technologies now make it possible for us to create and detect single photons on demand. In this project, we characterize experimentally the single photon emission from quantum dots, colour centre in diamond, and 2D materials, measuring second-order autocorrelation functions using single-photon counting in a confocal fluorescent microscope. We do this by engineering the defects, cavities, and waveguides at the wavelength scale to create devices with optimized structures for maximal photon emission and collection efficiency into useful modes.
+
 <!-- ![image]({{ site.url }}{{ site.baseurl }}/assets/research/research1.png){: style="float: left"} -->
 <figure style="width: 100%" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/research/research1.png" alt="">
 </figure> 
+
 *Publications:*
 
 1. F. Ortiz-Huerta, L. Chen, M. P. C.  Taverne, J.P. Hadden, M. Johnson, Y.-L.D. Ho, and J.G. Rarity, ["Fabrication of hybrid Fabry-Perot microcavity using two-photon lithography for single-photon sources"](https://doi.org/10.1364/OE.26.033245), Opt. Express 26, 33245-33252 (2018).
