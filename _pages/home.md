@@ -16,11 +16,10 @@ header:
 #comments: true
 ---
 ## Nanophotonic Engineering Laboratory (NEL)
-*The Nanophotonic Engineering Laboratory has been established at the Department of Maths, Physics and Electrical Engineering at Northumbria University in September 2019. We are interested in all aspects of nanophotonic materials, devices, and systems with novel properties and other applications. To achieve this, we are able to mould the flow of light through our structured materials and explore how it interacts with embedded quantum light sources. We use a variety of approaches, ranging from photonic crystal waveguides and cavities, and concepts from topological photonics with a particular interest in 3D artificially micro-/nano-structured materials, working together with the [Quantum & Molecular Photonics Group](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/quantum-and-molecular-photonics/) at Northumbria University.*<br><br><br>
-
+*The Nanophotonic Engineering Laboratory has been established at the Department of Maths, Physics and Electrical Engineering at Northumbria University in September 2019. We are interested in all aspects of nanophotonic materials, devices, and systems with novel properties and other applications. To achieve this, we are able to mould the flow of light through our structured materials and explore how it interacts with embedded quantum light sources. We use a variety of approaches, ranging from photonic crystal waveguides and cavities, and concepts from topological photonics with a particular interest in 3D artificially micro-/nano-structured materials, working together with the [Quantum & Molecular Photonics Group](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/quantum-and-molecular-photonics/) at Northumbria University.*<br>
 <!-- ![image]({{ site.url }}{{ site.baseurl }}/assets/research/research1-a.png){: style="float: left"} -->
 <figure style="width: 100%" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/research/all-images.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images.png" alt="">
 </figure> 
 
 ## Latest News
