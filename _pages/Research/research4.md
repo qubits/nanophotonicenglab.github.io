@@ -11,12 +11,16 @@ sidebar:
 
 <!-- **Solar-thermal absorbers** -->
 
-The main objective of the proposed research is the realisation of novel architectures for selective absorber metasurfaces, which aims to maximise visible light absorption and minimise infrared absorption to minimise thermal radiation and hence obtain higher temperature performance for solar thermal energy conversion applications. We will investigate a Fabry–Pérot nano-resonator in a metal–dielectric–metal configuration, consisting of an amorphous carbon interlayer placed between two stable high-temperature metallic layers (e.g., Ni, Cr, NiCr alloy or Mo), with the top layer being patterned using 2D/3D hyperuniform disordered phononic structures. 
-In particular, an optical experimental setup is developed to characterise the thermal radiation, losses, stability and performance of the solar-thermal absorbers at vacuum pressure and temperatures up to 650℃. A microscope heating stage (Linkam TS-1000) is used to heat the sample and the thermal optical properties of the device are then recorded by an in-house built Fourier image spectroscopy setup, which measures the spectra across an image formed at the back focal plane of a high magnification objective lens, capturing the scattering pattern of the device under study, thereby enabling a broadband and wide angle-resolved scattering characterization in the visible and infrared range.
+The main objective of the proposed research is the realisation of novel architectures for selective absorber metasurfaces, which aims to maximise visible light absorption and minimise infrared absorption to minimise thermal radiation and hence obtain higher temperature performance for solar thermal energy conversion applications. We will investigate a Fabry–Pérot nano-resonator in a metal–dielectric–metal configuration, consisting of an amorphous carbon interlayer placed between two stable high-temperature metallic layers (e.g., Ni, Cr, NiCr alloy or Mo), with the top layer being patterned using 2D/3D hyperuniform disordered phononic structures. In particular, an optical experimental setup is developed to characterise the thermal radiation, losses, stability and performance of the solar-thermal absorbers at vacuum pressure and temperatures up to 650℃. A microscope heating stage (Linkam TS-1000) is used to heat the sample and the thermal optical properties of the device are then recorded by an in-house built Fourier image spectroscopy setup, which measures the spectra across an image formed at the back focal plane of a high magnification objective lens, capturing the scattering pattern of the device under study, thereby enabling a broadband and wide angle-resolved scattering characterization in the visible and infrared range.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/research/research4.png" alt="">
+
 
 *Publications:*
 
 1. C. Wan, Y.-L. D. Ho, S. Nunez-Sanchez, N. Dorh, L. Chen, N. Fox, T. Mallick, S. Sundaram, and M.J. Cryan, [“A Selective Metasurface Absorber with An Amorphous Carbon Interlayer for Solar Thermal Applications,”](https://doi.org/10.1016/j.nanoen.2016.05.013) Nano Energy 26, 392–397(2016). 
 
+*Funding:*
 
+1. *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* (Research Grants 2022 Round 1) – PI: Dr. Ying-Lung Daniel Ho, funded by the Royal Society, value (£): £19,954.36, 21/03/2022 – 20/03/2023.
 
