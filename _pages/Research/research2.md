@@ -15,15 +15,13 @@ sidebar:
 * Creating full photonic bandgap materials by backfilling the low index contrast polymer templates with high index chalcogenide materials using CVD/ALD techniques;
 * Investigating the application of 3D photonic structures in novel sensors, biomimetic structures, nano-lasers and quantum light sources. 
 
-<!-- ![image]({{ site.url }}{{ site.baseurl }}/assets/research/research2.png){: style="float: left"} --><figure style="width: 100%" class="align-left"> 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/research/research2.png" alt="">
 
 *Funding:*
 
-3D Nanophotonics in Artificially Structured Chalcogenide Materials (EPSRC New Investigator Award) – PI: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/V040030/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1), value (£): 379,763, 01/09/2021 – 31/08/2024.
-
-Chalcogenide Photonic Technologies (EPSRC Standard Research) – PI: Prof. John Rarity, Researcher Co-I: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/M009033/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/M009033/1), value (£): 559,500, 01/05/2015 – 30/04/2018. 
-
-Chalcogenide Direct Write 3D Nanophononics – PI: Prof. John Rarity, Co-I: Dr. Ying-Lung Daniel Ho, funded by the ChAMP and WAFT Collaboration Fund, EPSRC Manufacturing Advanced Functional Materials Programme, value (£): 4,200, 15/05/2018 – 30/09/2018.
+1. 3D Nanophotonics in Artificially Structured Chalcogenide Materials (EPSRC New Investigator Award) – PI: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/V040030/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1), value (£): 379,763, 01/09/2021 – 31/08/2024.
+2. Chalcogenide Photonic Technologies (EPSRC Standard Research) – PI: Prof. John Rarity, Researcher Co-I: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/M009033/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/M009033/1), value (£): 559,500, 01/05/2015 – 30/04/2018. 
+3. Chalcogenide Direct Write 3D Nanophononics – PI: Prof. John Rarity, Co-I: Dr. Ying-Lung Daniel Ho, funded by the ChAMP and WAFT Collaboration Fund, EPSRC Manufacturing Advanced Functional Materials Programme, value (£): 4,200, 15/05/2018 – 30/09/2018.
 
 *Publications:*
 
