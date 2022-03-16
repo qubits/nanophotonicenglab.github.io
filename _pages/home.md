@@ -21,7 +21,7 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
 
 ## Latest News
-* 15-03-2022 Our Royal Society Research Grant roject *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* has just been granted! 
+* 15-03-2022 Our Royal Society Research Grant project *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* has just been granted! 
 * 23-02-2022 Check out our latest publication on [*Strongly Confining Light with Air-Mode Cavities in Inverse Rod-Connected Diamond Photonic Crystals*](https://doi.org/10.3390/cryst12030303).
 * 01-03-2022 NEL welcomes its new PhD student:  Miss Nadira Hameed. 
 * 22-09-2021 NEL has a fully funded PhD position available to study [*Artificially Nano-structured Materials for Three-dimensional Electrodes and Catalysts*](https://www.findaphd.com/phds/project/design-of-artificially-nano-structured-materials-for-three-dimensional-electrodes-and-catalysts-advert-reference-fac21-ee-mpee-hodaniel/?p133766).
