@@ -15,6 +15,8 @@ sidebar:
 * Creating full photonic bandgap materials by backfilling the low index contrast polymer templates with high index chalcogenide materials using CVD/ALD techniques;
 * Investigating the application of 3D photonic structures in novel sensors, biomimetic structures, nano-lasers and quantum light sources. 
 
+<!-- ![image]({{ site.url }}{{ site.baseurl }}/assets/research/research2.png){: style="float: left"} --><figure style="width: 100%" class="align-left"> 
+
 *Funding:*
 
 3D Nanophotonics in Artificially Structured Chalcogenide Materials (EPSRC New Investigator Award) – PI: Dr. Ying-Lung Daniel Ho, funded by the [EPSRC grant no. EP/V040030/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V040030/1), value (£): 379,763, 01/09/2021 – 31/08/2024.
