@@ -15,10 +15,12 @@ header:
 #author_profile: true
 #comments: true
 ---
+<img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
+
 ## Nanophotonic Engineering Laboratory (NEL)
 *The Nanophotonic Engineering Laboratory has been established at the Department of Maths, Physics and Electrical Engineering at Northumbria University in September 2019. We are interested in all aspects of nanophotonic materials, devices, and systems with novel properties and other applications. To achieve this, we are able to mould the flow of light through our structured materials and explore how it interacts with embedded quantum light sources. We use a variety of approaches, ranging from photonic crystal waveguides and cavities, and concepts from topological photonics with a particular interest in 3D artificially micro-/nano-structured materials, working together with the [Quantum & Molecular Photonics Group](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/quantum-and-molecular-photonics/) at Northumbria University.*
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/research/home-all-images-v5.png" alt="">
+
 
 ## Latest News
 * 15-03-2022 Our Royal Society Research Grant project *Exploring Topology-optimised Metasurface Architectures for Solar-thermal Absorption* has just been granted! 
