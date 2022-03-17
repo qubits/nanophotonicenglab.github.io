@@ -22,6 +22,10 @@ Currently, the remaining grand challenge LCDs face in the display market is resp
 *Publications:*
 
 1. J.-D. Lin, Y.-L. D. Ho*, L. Chen, M. Lopez-Garcia, S.-A. Jiang, M. P. C. Taverne, C.-R. Lee, and J. G. Rarity, [“Microstructure-Stabilized Blue Phase Liquid Crystals”](https://doi.org/10.1021/acsomega.8b01749) ACS Omega 3, 15435–15441 (2018).
+2. Y.-L. D. Ho*, Mike P. C. Taverne, Pisu Jiang, Shun-An Jiang, Jia-De Lin, Chia-Rong Lee, John G. Rarity, “Micro-/Nanostructure-Stabilized Liquid-Crystalline Blue-Phase,” The 2019 Conference on Lasers & Electro-Optics / Europe and European Quantum Electronics Conference (CLEO® / Europe-EQEC), Munich, Germany, June 23 - 27, 2019. 
+3. Jia-De Lin, Shun-An Jiang, Ying-Lung Daniel Ho, Lifeng Chen, Martin Lopez-Garcia, Mike P. C. Taverne, Chia-Rong Lee, and John G. Rarity, 2018, “Microstructure-Stabilized Blue Phase Liquid Crystals,” Liquid Crystal Conference in Taiwan, Dec. 21, New Taipei City, Taiwan.
+4. Jia-De Lin, Ying-Lung Daniel Ho, Lifeng Chen, Martin Lopez-Garcia, Shun-An Jiang, Mike P.C. Taverne, Chia-Rong Lee, and John G. Rarity, 2018, “Microstructure stabilized blue phase liquid crystal,” Optics & Photonics Taiwan, International Conference (OPTIC 2018), Dec. 6-8, Tainan, Taiwan. 
+
 
 *Collaborators:*
 
