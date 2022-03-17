@@ -8,8 +8,8 @@ main:
     url: /People/
   - title: "Research"
     url: /Research/
-  - title: "Facilities"
-    url: /Facilities/
+  - title: "Facilities and Equipment"
+    url: /Facilities_Equipment/
   - title: "Publications"
     url: /Publications/
   - title: "Resources"
@@ -25,7 +25,7 @@ docs:
       - title: "3D Nanophotonics in artificially structured materials"
         url: /Nanophotonics/3D-Nanophotonics/
       - title: "Optical microcavites and cavity quantum electrodynamics"
-        url: /Nanophotonics/Optical microcavites and cavity quantum electrodynamics/
+        url: /Nanophotonics/Optical microcavites-and-cavity-quantum-electrodynamics/
       - title: "Micro-Nanostructure-Stabilized Liquid-Crystalline Blue-Phase"
         url: /Nanophotonics/Micro-Nanostructure-Stabilized-Liquid-Crystalline-Blue-Phase/        
         
@@ -41,6 +41,9 @@ facilities:
     url: /Facilities/FIS/
   - title: "Confocal microscope"
     url: /Facilities/confocal/
+ equipment:
+  - title: "Lasers"
+    url: /Facilities/Lasers/
 
   #- title: Bio-engineering
     #url: /Bioengineering/
