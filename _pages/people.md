@@ -31,7 +31,6 @@ author_profile: true
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/>
 &nbsp;Nadira Hameed<br><br>
-
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
 &nbsp;<br>
 &nbsp;<br>
