@@ -3,7 +3,7 @@ title:  "Facilities and Equipment"
 #layout: archive
 layout: collection
 #layout: splash
-permalink: /Facilities_Equipment/
+permalink: /Facilities/
 author_profile: true
 sidebar:
   nav: "facilities_Equipment"
