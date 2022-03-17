@@ -41,9 +41,6 @@ facilities:
     url: /Facilities/FIS/
   - title: "Confocal microscope"
     url: /Facilities/confocal/
- equipment:
-  - title: "Lasers"
-    url: /Facilities/Lasers/
 
   #- title: Bio-engineering
     #url: /Bioengineering/
