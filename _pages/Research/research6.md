@@ -13,7 +13,7 @@ Recently, 3D photonic crystal structures with complete photonic bandgaps (PBGs) 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/research/RCD-OL.png" alt="">
 
-<iframe width="640" height="360" src="https://nanophotonicenglab.github.io/assets/research/Strong%20light%20confinement%20in%203D%20photonic%20crystals.mp4" title="Strong light confinement in 3D photonic crystals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="{{ site.url }}{{ site.baseurl }}/assets/research/Strong%20light%20confinement%20in%203D%20photonic%20crystals.mp4" title="Strong light confinement in 3D photonic crystals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Funding:*
 
