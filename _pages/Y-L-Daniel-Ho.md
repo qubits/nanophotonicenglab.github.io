@@ -7,6 +7,8 @@ author_profile: true
 #comments: true
 ---
 
+Detailed profile
+
 ## Principal Investigator
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
