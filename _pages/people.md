@@ -10,7 +10,7 @@ author_profile: true
 ## Principal Investigator
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
-&nbsp;Dr. Y.-L. Daniel Ho<br>
+&nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Facilities/confocal.md %})<br>
 &nbsp;ELE306<br>
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a><br>
