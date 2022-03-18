@@ -1,5 +1,5 @@
 ---
-title:  "Facilities"
+title:  "Equipment & facilities"
 #layout: archive
 layout: collection
 #layout: splash
