@@ -9,7 +9,7 @@ author_profile: true
 
 Detailed profile
 
-## Research Fellows
+## Research Fellow
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/>
 &nbsp;Dr. Mike Taverne<br>
