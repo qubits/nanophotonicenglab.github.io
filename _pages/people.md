@@ -21,7 +21,7 @@ author_profile: true
 ## Research Fellows
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/>
-&nbsp;Dr. Mike Taverne<br>
+&nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br> 
 &nbsp;<a href="https://www.northumbria.ac.uk/about-us/our-staff/t/mike-taverne"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="width: 2.5%; border: none; text-decoration: none"/></a><br>
@@ -32,7 +32,6 @@ author_profile: true
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/>
 &nbsp;Nadira Hameed<br><br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
-&nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
 <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
