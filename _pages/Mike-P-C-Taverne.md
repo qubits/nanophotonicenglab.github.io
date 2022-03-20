@@ -31,7 +31,8 @@ Detailed profile
 •	Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  present<br>
 •	Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010<br>
 ## AWARDS & HONOURS
-•	PhD studentship was funded through EPSRC.<br>
+•	Associate Fellow of the Higher Education Academy (AFHEA) 2022, Higher Education Academy, UK.<br>
+• PhD studentship was funded through EPSRC.<br>
 •	Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.<br>
 ## RESEARCH INTERESTS
 My research interests lie primarily in the field of Quantum Optics, Nanophotonics, Nanomanufacturing techniques and computational photonics. I am an expert in nanofabrication (3D additive nanomanufacturing and focused ion beam etching), modelling (Finite-Difference Time-Domain, and plane-wave expansion methods) and characterisation (in-house built Fourier imaging spectroscopy). My area right now has focused on the artificially structured electromagnetic materials for efficient control of light-matter interactions and the development of advanced optoelectronic devices for practical applications (e.g., sensing, light trapping, and solar energy harvesting, and quantum technology, etc.).
