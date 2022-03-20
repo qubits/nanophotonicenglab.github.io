@@ -19,7 +19,6 @@ Detailed profile
 <a href="https://scholar.google.com/citations?user=9sFGPrEAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 
 ## EDUCATION
-•	Enrolled on the CREATE (Cultivating Research and Teaching Excellence) scheme at the University of Bristol: Level 1 (HEA Associate Fellow) portfolio to be submitted in September 2020, already enrolled on level 2 (HEA Fellow).<br>
 •	Ph.D, Dept. of Electrical and Electronic Engineering, Faculty of Engineering, University of Bristol, UK. January 2017: “Modelling and fabrication of nanophotonics devices”: Optimized cavities in 3D photonic crystals and demonstrated record low mode volumes.<br>
 •	Master’s degree in subatomic physics and astroparticles, Louis Pasteur University, Strasbourg, France, 2008 (light-matter interactions, detection systems, elementary particles and fields, etc). <br>
 •	Engineering degree, Télécom Physique Strasbourg (formerly known as Ecole Nationale Supérieure de Physique de Strasbourg/National School of Higher Education in Physics of Strasbourg), Strasbourg, France, 2007 (included courses on embedded systems and electronic CAD using VHDL)<br>
