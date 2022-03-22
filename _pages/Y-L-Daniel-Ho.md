@@ -31,7 +31,7 @@ Detailed profile
 ## AWARDS & HONOURS 
 •	New Investigator Award 2021, EPSRC.<br>
 •	Fellow of the Higher Education Academy (FHEA) 2022, Higher Education Academy, UK.<br>
-•	The Student Led Teaching Awards 2020, Northumbria University Students' Union.<br> 
+•	Nomination by students for The Student Led Teaching Awards 2020, Northumbria University Students' Union.<br> 
 •	The Commendation Award at the 16th International Conference on Quantum Electronics and Photonics (QEP-16) & Photon 04.<br> 
 •	PhD studentship funded by the IST FET: QIPC, RamboQ and EPSRC: QIP-IRC.<br> 
 ## TEACHING EXPERIENCE
