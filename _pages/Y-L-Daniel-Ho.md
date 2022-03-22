@@ -25,9 +25,14 @@ Detailed profile
 •	B.Sc., 	30/06/1999, Electrical Engineering, National Taipei University of Technology, Taiwan.<br> 
 •	Postgraduate Certificate Academic Practice (PGCAP), 2020-2022, Faculty of Health and Life Sciences, Northumbria University, UK.<br>
 ## RESEARCH AND WORK EXPERIENCES 
-•	September 2019–present: Vice-Chancellor's Senior Fellow and Senior Lecturer, Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.<br>
-•	September 2019– present: Visiting Assistant Professor, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.<br>
-•	August 2007– August 2019: Research Fellow, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.<br>     
+•	September 2019–present<br>
+Vice-Chancellor's Senior Fellow and Senior Lecturer, Dept. of Maths, Physics & Electrical Engineering, University of Northumbria at Newcastle, UK.<br>
+•	September 2019– present<br>
+Visiting Assistant Professor, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.<br>
+•	August 2012–August 2019<br>
+Research Fellow, Dept. of Electrical & Electronic Engineering, University of Bristol<br>
+•	September 2007– July 2015<br>
+Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, UK.<br>     
 ## AWARDS & HONOURS 
 •	New Investigator Award 2021, EPSRC.<br>
 •	Fellow of the Higher Education Academy (FHEA) 2022, Higher Education Academy, UK.<br>
