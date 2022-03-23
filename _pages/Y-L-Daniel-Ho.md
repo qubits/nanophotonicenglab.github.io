@@ -21,8 +21,8 @@ Detailed profile
 <a href="https://twitter.com/ilhaformosa/profile/Ying-Lung_Ho"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
 
 ## EDUCATION 
-•	Ph.D., 	20/06/2007, Electrical and Electronic Engineering, University of Bristol, UK.<br>
-•	B.Sc., 	30/06/1999, Electrical Engineering, National Taipei University of Technology, Taiwan.<br> 
+•	Ph.D., 2007, Electrical and Electronic Engineering, University of Bristol, UK.<br>
+•	B.Sc., 1999, Electrical Engineering, National Taipei University of Technology, Taiwan.<br> 
 •	Postgraduate Certificate Academic Practice (PGCAP), 2020-2022, Faculty of Health and Life Sciences, Northumbria University, UK.<br>
 ## RESEARCH AND WORK EXPERIENCES 
 •	September 2019–present<br>
