@@ -30,7 +30,7 @@ author_profile: true
 ## PhD Students
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/>
-&nbsp;Nadira Hameed<br><br>
+&nbsp;Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
 &nbsp;<br>
 &nbsp;<br>
@@ -46,16 +46,16 @@ author_profile: true
 <!-- *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp; -->
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-&nbsp;Kian Meadows<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 &nbsp;Habib Awachi<br>
 &nbsp;<br>
 &nbsp;<br>
 &nbsp;<br>
+
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+&nbsp;Kian Meadows<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>-->
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
 The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
