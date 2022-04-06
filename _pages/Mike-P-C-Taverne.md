@@ -7,8 +7,6 @@ author_profile: true
 #comments: true
 ---
 
-Detailed profile
-
 ## Research Fellow
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/>
