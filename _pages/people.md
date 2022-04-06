@@ -6,20 +6,19 @@ permalink: /People/
 author_profile: true
 #comments: true
 ---
-<p align="center">
-    <b>## Principal Investigator<br> 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br> 
+## Principal Investigator<br> 
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
   <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> |
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> |
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-  <br><br>
+<p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
 </p>
 
-<p align="center">
+        
+<!--<p align="center">
   <b>## Principal Investigator<br> 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br> 
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
@@ -43,18 +42,18 @@ author_profile: true
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
 &nbsp;<br>
 <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a>&nbsp;
-## Project students<br> 
+<!--## Project students<br> 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br> 
 &nbsp;Thomas Taylor<br>
 &nbsp;<br>
 &nbsp;<br>
-&nbsp;<br>
+&nbsp;<br>-->
 <!-- *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp; -->
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-&nbsp;Habib Awachi<br>
+<!-- &nbsp;Habib Awachi<br>
 &nbsp;<br>
 &nbsp;<br>
-&nbsp;<br>
+&nbsp;<br>--> 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 &nbsp;Kian Meadows<br>
 &nbsp;<br>
@@ -78,11 +77,11 @@ Kian Meadows<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;-->
 </p>
   
-<p align="center">
+<!--<p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
+</p>-->
