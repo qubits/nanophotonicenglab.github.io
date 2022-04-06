@@ -7,7 +7,20 @@ author_profile: true
 #comments: true
 ---
 <p align="center">
-## Principal Investigator<br> 
+    <b>## Principal Investigator<br> 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br> 
+&nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
+&nbsp;ELE306<br>
+&nbsp;<daniel.ho@northumbria.ac.uk><br> 
+  <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> |
+  <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> |
+  <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
+  <br><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
+</p>
+
+<p align="center">
+  <b>## Principal Investigator<br> 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br> 
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
@@ -63,4 +76,13 @@ As you can see the should be some space above, below, and to the right of the im
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_HT.jpg" style="float: left;height: 120px"/>&nbsp;
 Kian Meadows<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;-->
+</p>
+  
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
