@@ -24,23 +24,23 @@ author_profile: true
 
 ## RESEARCH AND WORK EXPERIENCES
 
-* Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  present<br>
-* Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010<br>
+* Research Associate, Dept. of Electrical & Electronic Engineering, University of Bristol, 01/01/2016  –  present
+* Software engineer (Development of mesh generation software for CFD applications, Engineering consultancy), enGits GmbH, Germany, 2009 to 2010
 
 ## TEACHING EXPERIENCE
 
-* Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/electrical-and-electronic-engineering-beng-ft-uuselz1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D), University of Northumbria, February 2022 - present<br>
-* Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022), University of Northumbria, September - December 2021<br>
-* Quantum Device Engineering Guest Lecture on Photonic crystals, University of Bristol, March 2020<br>
-* Lumerical workshop in the Advanced Optoelectronic Devices unit of the Optical Communications and Signal Processing MSc, University of Bristol, March 2019<br>
-* Cross disciplinary teaching class: “Design, Fabrication, and Characterization of Wavelength-scale Structures”, National Cheng Kung University, Taiwan, July 2-6, 2018<br>
-* Classical algorithms workshop of the "Quantum in the summer" summer school, University of Bristol, July-August 2018 and 2019<br>
+* Seminars for the “Instrumentation Systems” section of the [“Instrumentation and Control of Dynamical Systems” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/electrical-and-electronic-engineering-beng-ft-uuselz1?moduleslug=kd6031-instrumentation-and-control-of-dynamical-systems&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D), University of Northumbria, February 2022 - present
+* Lectures and practical sessions for the “Simulation: Photonic crystals and waveguides” section of the [“Quantum Devices” module](https://www.northumbria.ac.uk/study-at-northumbria/courses/physics-mphys-ft-uusics1?moduleslug=kd6041-quantum-devices&alttemplate=%7Bdf847541-4f68-426a-8940-4c60ff4c5262%7D&y=2022), University of Northumbria, September - December 2021
+* Quantum Device Engineering Guest Lecture on Photonic crystals, University of Bristol, March 2020
+* Lumerical workshop in the Advanced Optoelectronic Devices unit of the Optical Communications and Signal Processing MSc, University of Bristol, March 2019
+* Cross disciplinary teaching class: “Design, Fabrication, and Characterization of Wavelength-scale Structures”, National Cheng Kung University, Taiwan, July 2-6, 2018
+* Classical algorithms workshop of the "Quantum in the summer" summer school, University of Bristol, July-August 2018 and 2019
 
 ## AWARDS & HONOURS
 
-* Associate Fellow of the Higher Education Academy (AFHEA) 2022, Higher Education Academy, UK.<br>
-* PhD studentship was funded through EPSRC.<br>
-* Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.<br>
+* Associate Fellow of the Higher Education Academy (AFHEA) 2022, Higher Education Academy, UK.
+* PhD studentship was funded through EPSRC.
+* Baccalauréat S (scientific section) with honours (mention “très bien”), Lycée Alexandre Dumas, Port-au-Prince, Haïti, 2001.
 
 ## RESEARCH INTERESTS
 
