@@ -42,14 +42,15 @@ author_profile: true
 <p align="center">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
-<!--*Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>-->
-&nbsp;Kian Meadows<br>
+
+&nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
 <p align="center">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
-&nbsp;Habib Awachi<br>        
-&nbsp;<habib.awachi@northumbria.ac.uk><br>  
+
+&nbsp;Mr Habib Awachi<br> 
+&nbsp;<habib.awachi@northumbria.ac.uk><br>     
 <p align="center">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
