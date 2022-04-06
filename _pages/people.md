@@ -6,7 +6,7 @@ permalink: /People/
 author_profile: true
 #comments: true
 ---
-## Principal Investigator<br> 
+## Principal Investigator 
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
@@ -15,45 +15,58 @@ author_profile: true
   <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br><br><br>
+  <br><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
 </p>
+<br><br>
 
-## Research Fellows<br> 
+## Research Fellows 
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br> 
   <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 <p align="center">
+  <br><br><br>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>
+<br><br>
 
-## PhD Students<br>
+## PhD Students
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 <p align="center">
+  <br><br><br>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>
-  
-## Project students<br> 
+<br><br> 
+
+## Project students
 &nbsp;Mr Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+  <br><br><br>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
+<br><br>
 
 &nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+  <br><br><br>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
 
+<br><br>
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+  <br><br><br>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
 </p>  
+<br><br>
+
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
 The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
