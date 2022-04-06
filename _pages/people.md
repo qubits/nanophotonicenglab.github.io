@@ -16,7 +16,7 @@ author_profile: true
   <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/><br><br><br> 
 </p>
 &nbsp;
 &nbsp;
@@ -53,7 +53,7 @@ author_profile: true
 &nbsp;Mr Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
 &nbsp;
 &nbsp;
@@ -62,7 +62,7 @@ author_profile: true
 &nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
 &nbsp;
 &nbsp;
@@ -71,7 +71,7 @@ author_profile: true
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
 &nbsp;
 &nbsp;
