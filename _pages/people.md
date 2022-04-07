@@ -94,7 +94,7 @@ As you can see the should be some space above, below, and to the right of the im
 <!--<img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_HT.jpg" style="float: left;height: 120px"/>&nbsp;
 Kian Meadows<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;-->
-</p>
+
   
 <!--<p align="center">
   <b>Some Links:</b><br>
