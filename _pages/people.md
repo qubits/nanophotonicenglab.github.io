@@ -55,6 +55,7 @@ author_profile: true
 
 ## Project students
 
+<!--
 <p align="center">
   <a> <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/> </a>
   &nbsp;
@@ -105,9 +106,10 @@ author_profile: true
   &nbsp;
   &nbsp;
 </p>
+-->
 
 
-<!--&nbsp;Mr Thomas Taylor<br>
+&nbsp;Mr Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
@@ -133,7 +135,7 @@ author_profile: true
 </p>  
 &nbsp;
 &nbsp;
-&nbsp;-->
+&nbsp;
 
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
