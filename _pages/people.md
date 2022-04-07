@@ -8,10 +8,6 @@ author_profile: true
 ---
 ## Principal Investigator 
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
-</p>
-
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
@@ -20,7 +16,9 @@ author_profile: true
   <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 
-
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
+</p>
 
 &nbsp;
 &nbsp;
