@@ -8,6 +8,10 @@ author_profile: true
 ---
 ## Principal Investigator 
 
+<p align="center">
+  <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
+  <br><br> 
+</p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
 &nbsp;<daniel.ho@northumbria.ac.uk><br> 
@@ -15,40 +19,34 @@ author_profile: true
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://www.linkedin.com/in/quantumgeezer/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
-
-<p align="center">
-  <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
-  <br><br> 
-</p>
-
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## Research Fellows 
 
+<p align="center">
+  <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
+  <br><br> 
+</p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
 &nbsp;<mike.taverne@northumbria.ac.uk><br> 
   <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
-<p align="center">
-  <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
-  <br><br> 
-</p>
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## PhD Students
 
-&nbsp;Miss Nadira Hameed<br>
-&nbsp;<nadira.p@northumbria.ac.uk><br> 
-  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
   <br><br> 
 </p>
+&nbsp;Miss Nadira Hameed<br>
+&nbsp;<nadira.p@northumbria.ac.uk><br> 
+  <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -108,31 +106,30 @@ author_profile: true
 </p>
 -->
 
-
-&nbsp;Mr Thomas Taylor<br>
-&nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
   <br><br> 
 </p>
+&nbsp;Mr Thomas Taylor<br>
+&nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 &nbsp;
 &nbsp;
 &nbsp;
 
+<p align="center">
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+</p> 
 &nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
-<p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
-</p>  
 &nbsp;
 &nbsp;
 &nbsp;
 
-&nbsp;Mr Habib Awachi<br> 
-&nbsp;<habib.awachi@northumbria.ac.uk><br>     
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
+&nbsp;Mr Habib Awachi<br> 
+&nbsp;<habib.awachi@northumbria.ac.uk><br>     
 &nbsp;
 &nbsp;
 &nbsp;
