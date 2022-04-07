@@ -10,7 +10,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
-  <br><br> 
+  <br><br><br><br> 
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
@@ -27,7 +27,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
-  <br><br> 
+  <br><br><br><br>  
 </p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
@@ -42,7 +42,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
-  <br><br> 
+  <br><br><br><br>  
 </p>
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
@@ -108,7 +108,7 @@ author_profile: true
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br> 
+  <br><br><br><br>  
 </p>
 &nbsp;Mr Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
@@ -117,7 +117,8 @@ author_profile: true
 &nbsp;
 
 <p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br><br><br>  
 </p> 
 &nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
@@ -126,7 +127,8 @@ author_profile: true
 &nbsp;
 
 <p align="center">
-   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br<br><br>  
 </p>  
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
