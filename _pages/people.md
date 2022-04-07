@@ -10,7 +10,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
-  <br><br><br><br><br><br>  
+  <br><br><br><br><br> 
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
@@ -27,7 +27,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
-  <br><br><br><br><br><br>   
+  <br><br><br><br><br>
 </p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
@@ -42,7 +42,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
-  <br><br><br><br><br><br>   
+  <br><br><br><br><br>  
 </p>
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
