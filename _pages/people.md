@@ -10,7 +10,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
-  <br><br><br><br> 
+  <br><br><br><br><br><br>  
 </p>
 &nbsp;[Dr. Y.-L. Daniel Ho]({% link _pages/Y-L-Daniel-Ho.md %})<br>
 &nbsp;ELE306<br>
@@ -27,7 +27,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
-  <br><br><br><br>  
+  <br><br><br><br><br><br>   
 </p>
 &nbsp;[Dr. Mike Taverne]({% link _pages/Mike-P-C-Taverne.md %})<br>
 &nbsp;ELC101<br>
@@ -42,7 +42,7 @@ author_profile: true
 
 <p align="center">
   <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
-  <br><br><br><br>  
+  <br><br><br><br><br><br>   
 </p>
 &nbsp;Miss Nadira Hameed<br>
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
@@ -128,13 +128,28 @@ author_profile: true
 
 <p align="center">
    <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
-  <br><br<br><br>  
-</p>  
+  <br><br><br><br>  
+</p> 
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 &nbsp;
 &nbsp;
 &nbsp;
+
+
+ 
+<!--<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="/assets/profiles/Daniel_Ho-1.png">
+</p>-->
+
 
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
@@ -155,17 +170,3 @@ Kian Meadows<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;-->
 
 
-
-
-  
-<!--<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-  <img src="/assets/profiles/Daniel_Ho-1.png">
-</p>-->
