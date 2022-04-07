@@ -17,7 +17,8 @@ author_profile: true
   <a href="https://twitter.com/ilhaformosa"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Twitter-Logo-2.png" style="width: 2.5%; border: none; text-decoration: none"/></a>
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
+  <img src="/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 150px"/>
+  <br><br> 
 </p>
 
 &nbsp;
@@ -32,7 +33,8 @@ author_profile: true
   <a href="https://www.northumbria.ac.uk/about-us/our-staff/h/daniel-ho/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/nuw.png" style="left;width: 2.5%; border: none; text-decoration: none"/></a> 
   <a href="https://scholar.google.co.uk/citations?user=LNZN_NIAAAAJ"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/google.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_MT.jpg" style="float: left;height: 120px"/><br><br><br> 
+  <img src="/assets/profiles/profile_im_MT.jpg" style="float: left;height: 150px"/>
+  <br><br> 
 </p>
 &nbsp;
 &nbsp;
@@ -44,7 +46,8 @@ author_profile: true
 &nbsp;<nadira.p@northumbria.ac.uk><br> 
   <a href="https://www.linkedin.com/in/nadira-hameed94/"><img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/linkedin.png" style="width: 2.5%; border: none; text-decoration: none"/></a> 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_NH.jpg" style="float: left;height: 120px"/><br><br><br> 
+  <img src="/assets/profiles/profile_im_NH.jpg" style="float: left;height: 150px"/> 
+  <br><br> 
 </p>
 &nbsp;
 &nbsp;
@@ -52,11 +55,64 @@ author_profile: true
 
 ## Project students
 
-&nbsp;Mr Thomas Taylor<br>
+<p align="center">
+  <a> <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/> </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a> <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/> </a> 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a> <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 150px"/> </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+</p>
+<p align="center">
+  <a> Mr Thomas Taylor </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a> Mr Kian Meadows </a> 
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a> Mr Habib Awachi </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+</p>
+
+
+<!--&nbsp;Mr Thomas Taylor<br>
 &nbsp;<tom4.taylor@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
-</p>  
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/>
+  <br><br> 
+</p>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -64,7 +120,7 @@ author_profile: true
 &nbsp;Mr Kian Meadows<br>
 &nbsp;<kian.meadows@northumbria.ac.uk><br>  
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
 &nbsp;
 &nbsp;
@@ -73,11 +129,11 @@ author_profile: true
 &nbsp;Mr Habib Awachi<br> 
 &nbsp;<habib.awachi@northumbria.ac.uk><br>     
 <p align="center">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
+   <img src="/assets/profiles/profile_im_default_1.jpg" style="float: left;height: 120px"/><br><br><br> 
 </p>  
 &nbsp;
 &nbsp;
-&nbsp;
+&nbsp;-->
 
 
 <!--![image-left]({{ site.url }}{{ site.baseurl }}/assets/profiles/profile_im_default_1.jpg){: .align-left height="2"}
@@ -97,6 +153,9 @@ As you can see the should be some space above, below, and to the right of the im
 Kian Meadows<br>&nbsp;
 *Final year project student working on developing code for a python-based component control graphical user interface (GUI) for the in-house built Fourier image spectroscopy (FIS) system.*<br>&nbsp;-->
 
+
+
+
   
 <!--<p align="center">
   <b>Some Links:</b><br>
@@ -107,4 +166,5 @@ Kian Meadows<br>&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/assets/profiles/Daniel_Ho-1.png" style="float: left;height: 120px"/>
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="/assets/profiles/Daniel_Ho-1.png">
 </p>-->
