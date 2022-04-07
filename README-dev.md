@@ -1,5 +1,8 @@
-Setup on Ubuntu
-===============
+*ubuntu (or other GNU/Linux)
+============================
+
+Setup
+-----
 
 1. Install packages:
 
@@ -26,9 +29,27 @@ Setup on Ubuntu
     bundle install
     ```
     
-Serve locally:
-==============
+Serve locally
+-------------
 
+* Run this command from the repository:
 ```
 ./serve_locally.sh
 ```
+* Open http://127.0.0.1:4000/in your browser.
+
+Windows
+=======
+Setup
+-----
+Follow the instructions here: https://jekyllrb.com/docs/installation/windows/
+
+Serve locally
+-------------
+* Double-click on **serve_locally.bat**
+* Open http://127.0.0.1:4000/in your browser.
+
+Markdown editors
+================
+* https://wereturtle.github.io/ghostwriter/ (for Windows)
+* https://github.com/ondratu/formiko (available in *ubuntu repositories)

@@ -13,6 +13,10 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+# necessary on Windows with Ruby 3.0
+# cf: https://github.com/jekyll/jekyll/issues/8523
+gem "webrick"
+
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
